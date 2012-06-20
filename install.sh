@@ -1,4 +1,5 @@
 #!/bin/bash
+echo lol test
 echo Configuring emcas
 cp emacs ~/.emacs
 echo Configuring screen
